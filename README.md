@@ -20,6 +20,7 @@ Ao inserir o microcontrolador na internet, você pode acessá-lo de qualquer loc
 #### – Conexão com o Arduino através de SPI
 #### – Possui cristal oscilador de 25MHz
 
+https://ww1.microchip.com/downloads/en/DeviceDoc/39662c.pdf
 
 
 
